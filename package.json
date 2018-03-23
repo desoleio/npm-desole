@@ -1,0 +1,17 @@
+{
+  "name": "desole",
+  "version": "1.0.0",
+  "description": "shortcut to install @desole/client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desoleio/npm-desole.git"
+  },
+  "keywords": ["desole"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desoleio/npm-desole/issues"
+  },
+  "homepage": "https://github.com/desoleio/npm-desole#readme"
+}
