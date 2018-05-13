@@ -1,6 +1,6 @@
 {
   "name": "desole",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "shortcut to install @desole/client",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/desoleio/npm-desole#readme",
   "dependencies": {
-    "@desole/client": "0.0.1"
+    "@desole/client": "1.0.0"
   }
 }
