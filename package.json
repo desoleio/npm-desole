@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "shortcut to install @desole/client",
   "main": "index.js",
+  "files": ["index.js"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/desoleio/npm-desole.git"
@@ -10,7 +11,7 @@
   "keywords": [
     "desole"
   ],
-  "author": "",
+  "author": "Gojko Adzic <https://gojko.net>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/desoleio/npm-desole/issues"
